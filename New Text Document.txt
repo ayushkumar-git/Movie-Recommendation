@@ -1,0 +1,2 @@
+This project is for recommendation and sentiment analysis.
+It is done on cosine similarity.
